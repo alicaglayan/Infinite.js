@@ -1,5 +1,5 @@
 (function ($) {
-    $.fn.Infinite = function (args) {
+    $.fn.InfiniteJS = function (args) {
         var counter = 0;
         var selectorHeight = {
             top: 0,
